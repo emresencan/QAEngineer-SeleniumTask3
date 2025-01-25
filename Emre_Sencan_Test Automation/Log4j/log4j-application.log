@@ -2515,3 +2515,130 @@
 2025-01-24 23:12:37 INFO  findElements:33 -   Message: Found elements by : By.xpath: //a[contains(text(),'View Role')].
 2025-01-24 23:12:46 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (51725a5103c21586d0c549112c0422ae)] -> xpath: //a[contains(text(),'Accept All')]]}
 2025-01-24 23:12:47 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (51725a5103c21586d0c549112c0422ae)] -> xpath: //a[contains(text(),'Accept All')]]}
+2025-01-25 17:55:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\PC\AppData\Local\JetBrains\IdeaIC2024.2\temp-testng-customsuite.xml
+
+2025-01-25 17:55:43 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (ac62f638f9a4736e1d4e03d5edc0ff3b)] -> xpath: //a[contains(text(),'Accept All')]]}
+2025-01-25 17:55:44 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (ac62f638f9a4736e1d4e03d5edc0ff3b)] -> xpath: //a[contains(text(),'Accept All')]]}
+2025-01-25 17:55:49 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //a[contains(text(),'Accept All')]]}
+2025-01-25 17:55:50 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //a[contains(text(),'Accept All')]]}
+2025-01-25 17:55:50 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //a[normalize-space()='Company']]}
+2025-01-25 17:55:51 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //a[normalize-space()='Company']]}
+2025-01-25 17:55:51 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //a[normalize-space()='Careers']]}
+2025-01-25 17:55:53 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //a[normalize-space()='Careers']]}
+2025-01-25 17:55:54 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:55:54 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> css selector: .location-info p]}
+2025-01-25 17:55:55 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:55:55 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:55:55 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:55:56 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:55:56 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:55:56 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:55:57 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:55:57 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:55:57 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:55:58 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:55:58 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:55:58 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:55:59 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:55:59 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:55:59 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:00 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:00 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:00 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:01 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:01 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:02 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:02 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:02 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:03 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:03 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:03 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:04 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:04 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:04 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:05 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:05 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:05 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:06 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:06 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:06 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:07 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:07 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:07 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:08 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:08 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:08 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:09 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:09 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:09 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:10 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:10 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:10 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:11 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:11 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:11 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:12 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:12 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:12 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:13 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:13 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:13 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:14 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:14 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:14 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:15 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:15 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:16 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //i[contains(@class, 'icon-arrow-right location-slider-next')]]}
+2025-01-25 17:56:16 INFO  findElements:33 -   Message: Found elements by : By.cssSelector: .location-info p.
+2025-01-25 17:56:16 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //a[text()='See all teams']]}
+2025-01-25 17:56:17 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //a[text()='See all teams']]}
+2025-01-25 17:56:20 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //a[text()='See all teams']]}
+2025-01-25 17:56:20 INFO  findElements:33 -   Message: Found elements by : By.xpath: //div[contains(@class, 'job-title')]//h3.
+2025-01-25 17:56:26 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (468246812b04b37c1a4c52c18e484097)] -> xpath: //h2[text()='Life at Insider']//..//..//..//p]}
+2025-01-25 17:56:32 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (01d0802c3225ea8180d1f169427f5a76)] -> xpath: //a[contains(text(),'Accept All')]]}
+2025-01-25 17:56:33 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (01d0802c3225ea8180d1f169427f5a76)] -> xpath: //a[contains(text(),'Accept All')]]}
+2025-01-25 17:56:33 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (01d0802c3225ea8180d1f169427f5a76)] -> xpath: //a[contains(text(),'See all QA jobs')]]}
+2025-01-25 17:56:42 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (01d0802c3225ea8180d1f169427f5a76)] -> xpath: //a[contains(text(),'See all QA jobs')]]}
+2025-01-25 17:56:43 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (01d0802c3225ea8180d1f169427f5a76)] -> id: select2-filter-by-location-container]}
+2025-01-25 17:56:43 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (01d0802c3225ea8180d1f169427f5a76)] -> id: select2-filter-by-location-container]}
+2025-01-25 17:56:43 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (01d0802c3225ea8180d1f169427f5a76)] -> xpath: //li[contains(text(),'Istanbul, Turkey')]]}
+2025-01-25 17:56:46 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (01d0802c3225ea8180d1f169427f5a76)] -> xpath: //li[contains(text(),'Istanbul, Turkey')]]}
+2025-01-25 17:56:46 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (01d0802c3225ea8180d1f169427f5a76)] -> id: select2-filter-by-department-container]}
+2025-01-25 17:56:46 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (01d0802c3225ea8180d1f169427f5a76)] -> id: select2-filter-by-department-container]}
+2025-01-25 17:56:47 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (01d0802c3225ea8180d1f169427f5a76)] -> xpath: //li[contains(text(),'Quality Assurance')]]}
+2025-01-25 17:56:47 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (01d0802c3225ea8180d1f169427f5a76)] -> xpath: //li[contains(text(),'Quality Assurance')]]}
+2025-01-25 17:56:47 INFO  findElements:33 -   Message: Found elements by : By.xpath: //div[contains(@class, 'position-list-item-wrapper')].
+2025-01-25 17:56:53 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (0fadf472859eeffcf35761262efdb4d8)] -> xpath: //a[contains(text(),'Accept All')]]}
+2025-01-25 17:56:53 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (0fadf472859eeffcf35761262efdb4d8)] -> xpath: //a[contains(text(),'Accept All')]]}
+2025-01-25 17:56:54 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (0fadf472859eeffcf35761262efdb4d8)] -> xpath: //a[contains(text(),'See all QA jobs')]]}
+2025-01-25 17:57:06 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (0fadf472859eeffcf35761262efdb4d8)] -> xpath: //a[contains(text(),'See all QA jobs')]]}
+2025-01-25 17:57:06 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (0fadf472859eeffcf35761262efdb4d8)] -> id: select2-filter-by-location-container]}
+2025-01-25 17:57:06 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (0fadf472859eeffcf35761262efdb4d8)] -> id: select2-filter-by-location-container]}
+2025-01-25 17:57:06 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (0fadf472859eeffcf35761262efdb4d8)] -> xpath: //li[contains(text(),'Istanbul, Turkey')]]}
+2025-01-25 17:57:08 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (0fadf472859eeffcf35761262efdb4d8)] -> xpath: //li[contains(text(),'Istanbul, Turkey')]]}
+2025-01-25 17:57:09 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (0fadf472859eeffcf35761262efdb4d8)] -> id: select2-filter-by-department-container]}
+2025-01-25 17:57:09 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (0fadf472859eeffcf35761262efdb4d8)] -> id: select2-filter-by-department-container]}
+2025-01-25 17:57:09 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (0fadf472859eeffcf35761262efdb4d8)] -> xpath: //li[contains(text(),'Quality Assurance')]]}
+2025-01-25 17:57:09 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (0fadf472859eeffcf35761262efdb4d8)] -> xpath: //li[contains(text(),'Quality Assurance')]]}
+2025-01-25 17:57:09 INFO  findElements:33 -   Message: Found elements by : By.xpath: //div[contains(@class, 'position-list-item-wrapper')].
+2025-01-25 17:57:09 INFO  findElements:33 -   Message: Found elements by : By.xpath: //span[contains(@class, 'position-department')].
+2025-01-25 17:57:09 INFO  findElements:33 -   Message: Found elements by : By.xpath: //div[contains(@class, 'position-location')].
+2025-01-25 17:57:15 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (1a2289728cf47af08eab33d1ef5e01cb)] -> xpath: //a[contains(text(),'Accept All')]]}
+2025-01-25 17:57:16 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (1a2289728cf47af08eab33d1ef5e01cb)] -> xpath: //a[contains(text(),'Accept All')]]}
+2025-01-25 17:57:16 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (1a2289728cf47af08eab33d1ef5e01cb)] -> xpath: //a[contains(text(),'See all QA jobs')]]}
+2025-01-25 17:57:31 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (1a2289728cf47af08eab33d1ef5e01cb)] -> xpath: //a[contains(text(),'See all QA jobs')]]}
+2025-01-25 17:57:32 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (1a2289728cf47af08eab33d1ef5e01cb)] -> id: select2-filter-by-location-container]}
+2025-01-25 17:57:32 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (1a2289728cf47af08eab33d1ef5e01cb)] -> id: select2-filter-by-location-container]}
+2025-01-25 17:57:32 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (1a2289728cf47af08eab33d1ef5e01cb)] -> xpath: //li[contains(text(),'Istanbul, Turkey')]]}
+2025-01-25 17:57:34 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (1a2289728cf47af08eab33d1ef5e01cb)] -> xpath: //li[contains(text(),'Istanbul, Turkey')]]}
+2025-01-25 17:57:35 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (1a2289728cf47af08eab33d1ef5e01cb)] -> id: select2-filter-by-department-container]}
+2025-01-25 17:57:35 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (1a2289728cf47af08eab33d1ef5e01cb)] -> id: select2-filter-by-department-container]}
+2025-01-25 17:57:35 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (1a2289728cf47af08eab33d1ef5e01cb)] -> xpath: //li[contains(text(),'Quality Assurance')]]}
+2025-01-25 17:57:35 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (1a2289728cf47af08eab33d1ef5e01cb)] -> xpath: //li[contains(text(),'Quality Assurance')]]}
+2025-01-25 17:57:35 INFO  findElements:33 -   Message: Found elements by : By.xpath: //div[contains(@class, 'position-list-item-wrapper')].
+2025-01-25 17:57:35 INFO  findElements:33 -   Message: Found elements by : By.xpath: //span[contains(@class, 'position-department')].
+2025-01-25 17:57:35 INFO  findElements:33 -   Message: Found elements by : By.xpath: //div[contains(@class, 'position-location')].
+2025-01-25 17:57:35 INFO  findElements:33 -   Message: Found elements by : By.xpath: //a[contains(text(),'View Role')].
+2025-01-25 17:57:43 INFO  findElement:33 -   Message: element is enabled and displayed Decorated {[[ChromeDriver: chrome on windows (9d0fa8da65d9788a231bd734030baa01)] -> xpath: //a[contains(text(),'Accept All')]]}
+2025-01-25 17:57:44 INFO  clickElement:33 -   Message: Clicked element : Decorated {[[ChromeDriver: chrome on windows (9d0fa8da65d9788a231bd734030baa01)] -> xpath: //a[contains(text(),'Accept All')]]}

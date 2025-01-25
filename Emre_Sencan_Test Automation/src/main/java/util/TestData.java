@@ -34,6 +34,7 @@ public class TestData {
             "We’re here to grow and drive growth—as none of us did before. Together, we’re building a culture that inspires us to create our life’s work—and creates a bold(er) impact. We know that we’re smarter as a group than we are alone. Become one of us if you dare to play bigger.";
     public static final String QUALITY_ASSURANCE = "Quality Assurance";
     public static final String ISTANBUL_TURKEY = "Istanbul, Turkey";
+    public static final String QA_LINK = "https://useinsider.com/careers/quality-assurance/";
 
 }
 

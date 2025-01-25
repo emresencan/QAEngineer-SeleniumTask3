@@ -39,21 +39,21 @@ public class TestAutomation extends BaseTest {
 
     @Test(enabled = true, description = "Case3: Filter QA Jobs Test")
     public void Case3_FilterQAJobsTest() {
-        driver.get("https://useinsider.com/careers/quality-assurance/");
+        driver.get(QA_LINK);
         qualityAssurancePage.acceptCookies().clickSeeAllQAJobs().selectLocation(ISTANBUL_TURKEY)
                 .selectDepartment(QUALITY_ASSURANCE).checkJobList();
     }
 
     @Test(enabled = true, description = "Case4: Check Job Details Test")
     public void Case4_CheckJobDetailsTest() {
-        driver.get("https://useinsider.com/careers/quality-assurance/");
+        driver.get(QA_LINK);
         qualityAssurancePage.acceptCookies().clickSeeAllQAJobs().selectLocation(ISTANBUL_TURKEY)
                 .selectDepartment(QUALITY_ASSURANCE).checkJobList().checkJobListDetails("Quality Assurance","Istanbul, Turkey");
     }
 
     @Test(enabled = true, description = "Case5: Check View Role Redirection Test")
     public void Case5_CheckViewRoleRedirectionTest() {
-        driver.get("https://useinsider.com/careers/quality-assurance/");
+        driver.get(QA_LINK);
         qualityAssurancePage.acceptCookies().clickSeeAllQAJobs().selectLocation(ISTANBUL_TURKEY)
                 .selectDepartment(QUALITY_ASSURANCE).checkJobList()
                 .checkJobListDetails(QUALITY_ASSURANCE,ISTANBUL_TURKEY)
