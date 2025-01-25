@@ -1,7 +1,7 @@
 # **Test Automation - API (PetStore API)**
 
 ## 📌 **Project Description**
-This project is designed to test **CRUD (Create, Read, Update, Delete)** operations using the **PetStore API**. The tests are automated using **Rest Assured** and **Java**.
+This project is designed to test **CRUD (Create, Read, Update, Delete)** operations using the **PetStore API**. The tests are automated using **Rest Assured**, **Java HttpClient** and **Java**.
 
 ## 🛠 **Technologies Used**
 - **Java 11+** *(Ensure Java 11 or later is installed for smooth execution.)*
