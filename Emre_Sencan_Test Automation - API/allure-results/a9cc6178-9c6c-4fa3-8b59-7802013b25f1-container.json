@@ -1,0 +1,1 @@
+{"uuid":"a9cc6178-9c6c-4fa3-8b59-7802013b25f1","name":"PetApiTests.setup","children":["8b357742-d463-43e8-b189-c78b3d76150d"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1737816593481,"stop":1737816593482}],"afters":[],"start":1737816593481,"stop":1737816593482}

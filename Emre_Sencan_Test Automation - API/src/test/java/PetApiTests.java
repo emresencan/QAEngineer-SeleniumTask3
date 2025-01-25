@@ -21,7 +21,7 @@ public class PetApiTests {
     @Test(enabled = true, description = "Case1: Create Pet Positive Test")
     public void Case1_CreatePetPositiveTest() {
         Response response = petApi.createPet(testPetId, "Ophelia", "available");
-        response.then().statusCode(200).body("id", equalTo(testPetId)).body("name", equalTo("TestPet"));
+        response.then().statusCode(200).body("id", equalTo(testPetId)).body("name", equalTo("Ophelia"));
     }
 
     @Test(enabled = true, description = "Case2: Get Pet By Id Positive Test")
