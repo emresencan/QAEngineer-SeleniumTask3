@@ -43,7 +43,7 @@ allure serve target/allure-results
 
 ### **❌ Negative Scenarios**
 - **Case3:** Retrieve a non-existent pet by ID (`404 Not Found` expected)
-- **Case5:** Update a pet with an invalid ID (`404 Invalid Input` expected)
+- **Case5:** Update a pet with an invalid ID (`404 Not Found` expected)
 - **Case7:** Delete a non-existent pet (`404 Not Found` expected)
 
 ---
