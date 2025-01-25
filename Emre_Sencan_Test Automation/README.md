@@ -25,7 +25,7 @@ Ensure you have the following installed:
 
 ### **Clone the Repository**
 ```sh
-git clone https://github.com/emresencan/TestAutomationUI_Insider.git
+git clone https://github.com/emresencan/QAEngineer-SeleniumTask3.git
 ```
 
 ### **Install Dependencies**
@@ -91,16 +91,6 @@ public class AllureScreenshotUtil {
 
 ---
 
-## 👨‍💻 Contribution Guide
-
-We welcome contributions! Please follow these steps:
-1. **Fork the repository**.
-2. **Create a feature branch** (`feature-new-test-case`).
-3. **Commit changes** with meaningful messages.
-4. **Push to GitHub** and create a Pull Request.
-
----
-
 ## 📌 **Developer Notes**
 - To run tests on **Chrome & Firefox**, add the browser parameter in the `config.properties` file.
 - **Allure Report is used** for detailed test reporting
@@ -108,10 +98,10 @@ We welcome contributions! Please follow these steps:
 ---
 
 ## 📩 Contact
-
-- **GitHub:** [Your GitHub](https://github.com/emresencan)
+    
+- **GitHub:** [GitHub](https://github.com/emresencan)
 - **Email:** y.emresencan@hotmail.com
-- **LinkedIn:** [Your LinkedIn](www.linkedin.com/in/emre-sencan-890b043b)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/emre-sencan-890b043b)
 
 ---
 

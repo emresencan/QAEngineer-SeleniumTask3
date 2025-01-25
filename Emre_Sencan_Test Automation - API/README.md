@@ -6,6 +6,7 @@ This project is designed to test **CRUD (Create, Read, Update, Delete)** operati
 ## 🛠 **Technologies Used**
 - **Java 11+** *(Ensure Java 11 or later is installed for smooth execution.)*
 - **Rest Assured** *(For API testing)*
+- **Java HttpClient** *(For making HTTP requests in API testing)*
 - **TestNG** *(As the test framework)*
 - **Maven** *(For dependency management)*
 - **Allure Report** *(For generating test reports)*
@@ -14,8 +15,7 @@ This project is designed to test **CRUD (Create, Read, Update, Delete)** operati
 ## ⚙️ **Setup & Execution**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/username/test-automation-api.git
-cd test-automation-api
+git clone https://github.com/emresencan/QAEngineer-SeleniumTask3.git
 ```
 
 ### **2️⃣ Install Dependencies**
@@ -46,5 +46,11 @@ allure serve target/allure-results
 - **Case5:** Update a pet with an invalid ID (`404 Invalid Input` expected)
 - **Case7:** Delete a non-existent pet (`404 Not Found` expected)
 
+---
+
+## 📩 Contact
+- **GitHub:** [GitHub](https://github.com/emresencan)
+- **Email:** y.emresencan@hotmail.com
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/emre-sencan-890b043b)
 
 
